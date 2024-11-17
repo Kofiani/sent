@@ -1,0 +1,84 @@
+/*
+	Custom fonts for Sentimental Nigeria Shopify
+	Coconat-Regular.woff or woff2
+	Coconat-Demi.woff2 or woff
+	Coconat-Bold.woff2 or woff
+	Primerose Font.ttf
+	Arial Bold.ttf
+	Questrial-Regular.ttf
+	Roboto-Regular.ttf
+*/
+
+/*
+  'https://raw.githubusercontent.com/kofiani/sent/main/Coconat-Regular.woff',
+  'https://raw.githubusercontent.com/kofiani/sent/main/Coconat-Regular.woff2',
+  'https://raw.githubusercontent.com/kofiani/sent/main/Coconat-Demi.woff2',
+  'https://raw.githubusercontent.com/kofiani/sent/main/Coconat-Demi.woff',
+  'https://raw.githubusercontent.com/kofiani/sent/main/Coconat-Bold.woff',
+  'https://raw.githubusercontent.com/kofiani/sent/main/Coconat-Bold.woff2',
+  'https://raw.githubusercontent.com/kofiani/sent/main/Primerose Font.ttf',
+  'https://raw.githubusercontent.com/kofiani/sent/main/Arial Bold.ttf',
+  'https://raw.githubusercontent.com/kofiani/sent/main/Questrial-Regular.ttf',
+  'https://raw.githubusercontent.com/kofiani/sent/main/Roboto-Regular.ttf'
+*/
+
+@font-face {
+	font-family: "Coconat";
+	src:
+		url("https://raw.githubusercontent.com/kofiani/sent/main/Coconat-Regular.woff")
+			format("woff"),
+		url("https://raw.githubusercontent.com/kofiani/sent/main/Coconat-Regular.woff2")
+			format("woff2");
+	font-weight: normal;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: "Coconat";
+	src:
+		url("https://raw.githubusercontent.com/kofiani/sent/main/Coconat-Demi.woff")
+			format("woff"),
+		url("https://raw.githubusercontent.com/kofiani/sent/main/Coconat-Demi.woff2")
+			format("woff2");
+	font-weight: 500;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: "Coconat";
+	src:
+		url("https://raw.githubusercontent.com/kofiani/sent/main/Coconat-Bold.woff")
+			format("woff"),
+		url("https://raw.githubusercontent.com/kofiani/sent/main/Coconat-Bold.woff2")
+			format("woff2");
+	font-weight: 700;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: "Primerose";
+	src: url("https://raw.githubusercontent.com/kofiani/sent/main/Primerose Font.ttf");
+	font-weight: normal;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: "Primerose";
+	src: url("https://raw.githubusercontent.com/kofiani/sent/main/Arial Bold.ttf");
+	font-weight: normal;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: "Primerose";
+	src: url("https://raw.githubusercontent.com/kofiani/sent/main/Questrial-Regular.ttf");
+	font-weight: normal;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: "Primerose";
+	src: url("https://raw.githubusercontent.com/kofiani/sent/main/Roboto-Regular.ttf");
+	font-weight: normal;
+	font-style: normal;
+}
