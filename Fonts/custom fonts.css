@@ -63,21 +63,21 @@
 }
 
 @font-face {
-	font-family: "Primerose";
+	font-family: "Arial";
 	src: url("https://raw.githubusercontent.com/kofiani/sent/main/Arial Bold.ttf");
-	font-weight: normal;
+	font-weight: 700;
 	font-style: normal;
 }
 
 @font-face {
-	font-family: "Primerose";
+	font-family: "Questrial";
 	src: url("https://raw.githubusercontent.com/kofiani/sent/main/Questrial-Regular.ttf");
 	font-weight: normal;
 	font-style: normal;
 }
 
 @font-face {
-	font-family: "Primerose";
+	font-family: "Roboto";
 	src: url("https://raw.githubusercontent.com/kofiani/sent/main/Roboto-Regular.ttf");
 	font-weight: normal;
 	font-style: normal;
