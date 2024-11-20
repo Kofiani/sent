@@ -57,9 +57,9 @@
 }
 
 @font-face {
-	font-family: "Primerose";
+	font-family: "Plumerose";
 	src: url("https://raw.githubusercontent.com/kofiani/sent/main/Fonts/Plumrose Font.ttf");
-	font-weight: normal;
+	font-weight: 400;
 	font-style: normal;
 }
 
@@ -73,13 +73,13 @@
 @font-face {
 	font-family: "Questrial";
 	src: url("https://raw.githubusercontent.com/kofiani/sent/main/Fonts/Questrial-Regular.ttf");
-	font-weight: normal;
+	font-weight: 400;
 	font-style: normal;
 }
 
 @font-face {
 	font-family: "Roboto";
 	src: url("https://raw.githubusercontent.com/kofiani/sent/main/Fonts/Roboto-Regular.ttf");
-	font-weight: normal;
+	font-weight: 400;
 	font-style: normal;
 }
