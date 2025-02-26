@@ -25,9 +25,9 @@
 @font-face {
 	font-family: "Coconat";
 	src:
-		url("https://raw.githubusercontent.com/kofiani/sent/main/Fonts/Coconat-Regular.woff")
+		url("https://rawcdn.githack.com/Kofiani/sent/refs/heads/main/Fonts/Coconat-Regular.woff")
 			format("woff"),
-		url("https://raw.githubusercontent.com/kofiani/sent/main/Fonts/Coconat-Regular.woff2")
+		url("https://rawcdn.githack.com/Kofiani/sent/refs/heads/main/Fonts/Coconat-Regular.woff2")
 			format("woff2");
 	font-weight: normal;
 	font-style: 400;
@@ -37,9 +37,9 @@
 @font-face {
 	font-family: "Coconat";
 	src:
-		url("https://raw.githubusercontent.com/kofiani/sent/main/Fonts/Coconat-Demi.woff")
+		url("https://rawcdn.githack.com/Kofiani/sent/refs/heads/main/Fonts/Coconat-Demi.woff")
 			format("woff"),
-		url("https://raw.githubusercontent.com/kofiani/sent/main/Fonts/Coconat-Demi.woff2")
+		url("https://rawcdn.githack.com/Kofiani/sent/refs/heads/main/Fonts/Coconat-Demi.woff2")
 			format("woff2");
 	font-weight: 500;
 	font-style: normal;
@@ -48,9 +48,9 @@
 @font-face {
 	font-family: "Coconat";
 	src:
-		url("https://raw.githubusercontent.com/kofiani/sent/main/Fonts/Coconat-Bold.woff")
+		url("https://rawcdn.githack.com/Kofiani/sent/refs/heads/main/Fonts/Coconat-Bold.woff")
 			format("woff"),
-		url("https://raw.githubusercontent.com/kofiani/sent/main/Fonts/Coconat-Bold.woff2")
+		url("https://rawcdn.githack.com/Kofiani/sent/refs/heads/main/Fonts/Coconat-Bold.woff2")
 			format("woff2");
 	font-weight: 700;
 	font-style: normal;
@@ -58,28 +58,28 @@
 
 @font-face {
 	font-family: "Plumerose";
-	src: url("https://raw.githubusercontent.com/kofiani/sent/main/Fonts/Plumrose Font.ttf");
+	src: url("https://rawcdn.githack.com/Kofiani/sent/refs/heads/main/Fonts/Plumrose%20Font.ttf");
 	font-weight: 400;
 	font-style: normal;
 }
 
 @font-face {
 	font-family: "Arial";
-	src: url("https://raw.githubusercontent.com/kofiani/sent/main/Fonts/Arial Bold.ttf");
+	src: url("https://rawcdn.githack.com/Kofiani/sent/refs/heads/main/Fonts/Arial%20Bold.ttf");
 	font-weight: 700;
 	font-style: normal;
 }
 
 @font-face {
 	font-family: "Questrial";
-	src: url("https://raw.githubusercontent.com/kofiani/sent/main/Fonts/Questrial-Regular.ttf");
+	src: url("https://rawcdn.githack.com/Kofiani/sent/refs/heads/main/Fonts/Questrial-Regular.ttf");
 	font-weight: 400;
 	font-style: normal;
 }
 
 @font-face {
 	font-family: "Roboto";
-	src: url("https://raw.githubusercontent.com/kofiani/sent/main/Fonts/Roboto-Regular.ttf");
+	src: url("https://rawcdn.githack.com/Kofiani/sent/refs/heads/main/Fonts/Roboto-Regular.ttf");
 	font-weight: 400;
 	font-style: normal;
 }
